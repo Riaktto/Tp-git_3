@@ -21,6 +21,7 @@ printf("hh nizar");
 
 void afficher(){
 printf("walid");
+}
 
 void afficherhamza(){
 	printf("hamza");
