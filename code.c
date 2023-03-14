@@ -21,8 +21,9 @@ printf("walid");
 
 void afficherhamza(){
 	printf("hamza");
+}
 
-void afficher(){
+void afficher2(){
 printf("walid");
 
 }
@@ -31,6 +32,7 @@ printf("walid");
 void nizar(){
 	printf("Nizar Oubbali\n");
 }
+
 
 
 void afficher(){
