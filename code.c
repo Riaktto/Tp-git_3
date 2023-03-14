@@ -1,6 +1,4 @@
 #include <stdio.h>
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 
 void afficher(){
@@ -13,13 +11,25 @@ void afficherhamza(){
 	printf("hamza");
 }
 
+void nizar(){
+	printf("nizar oub");
+}
+
 
 void afficher(){
+printf("walid");
+
+void afficherhamza(){
 	printf("hamza");
 
 void afficher(){
 printf("walid");
 
+}
+
+
+void nizar(){
+	printf("Nizar Oubbali\n");
 }
 
 
@@ -30,4 +40,5 @@ main(){
 	printf("principale\n");
 	afficherhamza();
 	afficher();
+	nizar();
 }
