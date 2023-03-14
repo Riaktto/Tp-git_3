@@ -12,3 +12,26 @@ main(){
 	printf("principale\n");
 	afficher();
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void afficher(){
+	printf("zakaria");
+}
