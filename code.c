@@ -1,9 +1,9 @@
 #include <stdio.h>
 
+
 void afficher(){
-	printf("hamza");
+	printf("yassine abbes");
 }
 main(){
 	printf("principale\n");
-	afficher();
 }
