@@ -3,6 +3,7 @@
 void afficher(){
 	printf("hamza");
 }
+
 main(){
 	printf("principale\n");
 	afficher();
