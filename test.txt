@@ -24,6 +24,9 @@ test asmae bouche
 test hamza
 test NizarOub
 
+test walid
+test asmae bouche 
+
 
 
 
@@ -38,6 +41,7 @@ test NizarOub
 test hiba
 
 
+>>>>>>> 6ef1bb80e0ba0a1383d8a0127ca402d81834a1e1
 
 
 test nizarsef
@@ -47,10 +51,11 @@ test soukaina
 test asmae bouche
 
 
-test kawthar
 
-
-
+<<<<<<< HEAD
+=======
+test haitam
+>>>>>>> 6ef1bb80e0ba0a1383d8a0127ca402d81834a1e1
 
 test Nawal
 
@@ -63,7 +68,12 @@ test haitam
 
 
 test haitam
+<<<<<<< HEAD
 
+<<<<<<< HEAD
+=======
+>>>>>>> 6ef1bb80e0ba0a1383d8a0127ca402d81834a1e1
+=======
 test Nouralhoudaac
 
 
@@ -79,3 +89,4 @@ test haitam
 test Nouralhoudaac
 
 
+>>>>>>> 65df50f451fd058999a9ca4a7120741703e0aa91
