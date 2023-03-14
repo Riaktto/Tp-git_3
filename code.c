@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-<<<<<<< Updated upstream
 void afficher(){
 	printf("yassine abbes");
 }
@@ -14,6 +13,13 @@ main(){
 
 void afficher(){
 printf("walid");
+
+void afficher(){
+	printf("hamza");
+
+void afficher(){
+printf("walid");
+
 }
 main(){
 	printf("principale\n");
@@ -26,10 +32,12 @@ main(){
 
 
 
+
+
+
 void afficher(){
 	printf("zakaria");
 }
-=======
 void nizar(){
 	printf("Nizar Oubbali\n");
 }
@@ -38,4 +46,3 @@ main(){
 	printf("principale\n");
 	nizar();
 }
->>>>>>> Stashed changes
