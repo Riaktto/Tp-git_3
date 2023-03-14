@@ -11,6 +11,8 @@ printf("walid");
 void afficherhamza(){
 	printf("hamza");
 }
+void afficher(){
+	printf("zakaria");
 main(){
 	printf("principale\n");
 	afficherhamza();
