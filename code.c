@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+
 void afficher(){
-	printf("hamza");
+	printf("yassine abbes");
 }
 void nizar(){
 	printf("nizar oub");
@@ -10,3 +11,4 @@ main(){
 	printf("principale\n");
 	nizar();
 }
+
