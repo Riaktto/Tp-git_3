@@ -4,6 +4,16 @@ void afficher(){
 }
 
 
+
+void afficherhib(){
+	printf("hiba");
+}
+main(){
+	printf("principale\n");
+	afficherhiba();
+
+
+
 void afficher(){
 	printf("yassine abbes");
 }
@@ -18,12 +28,20 @@ void nizar(){
 	printf("nizar oub");
 }
 
+main(){
+	printf("principale\n");
+	nizar();
+
+}
+
+
 void  nizar(){
 printf("hh nizar");
 }
 
 void afficher(){
 printf("walid");
+}
 
 void afficherhamza(){
 	printf("hamza");
@@ -41,6 +59,7 @@ void nizar(){
 
 
 
+
 void afficher(){
 	printf("zakaria");
 }
@@ -53,3 +72,4 @@ main(){
 	nizar();
 
 }
+
