@@ -15,6 +15,8 @@ void nizar(){
 	printf("nizar oub");
 }
 
+void  nizar(){
+printf("hh nizar");
 
 void afficher(){
 printf("walid");
@@ -31,7 +33,7 @@ printf("walid");
 
 void nizar(){
 	printf("Nizar Oubbali\n");
-}
+
 
 
 
