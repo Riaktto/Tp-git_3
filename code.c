@@ -1,10 +1,13 @@
 #include <stdio.h>
+<<<<<<< HEAD
 
 
 void afficher(){
 	printf("yassine abbes");
 }
-
+void afficher(){
+printf("walid");
+}
 void afficherhamza(){
 	printf("hamza");
 }
