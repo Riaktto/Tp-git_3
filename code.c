@@ -1,4 +1,19 @@
 #include <stdio.h>
+void afficher(){
+
+	printf("Nawal");
+}
+main(){
+	printf("principale\n");
+	afficher();
+}
+
+	printf("hello");
+}
+
+void aff(){
+	printf("soukaina");
+}
 
 void affficher()
 {
@@ -57,6 +72,19 @@ printf("walid");
 
 }
 
+main(){
+	printf("principale\n");
+
+	aff();
+
+	afficher();
+	afficher2();
+}
+
+
+
+
+
 
 void nizar(){
 	printf("Nizar Oubbali\n");
@@ -65,15 +93,22 @@ void nizar(){
 
 
 
+
+
 void afficher(){
 	printf("zakaria");
+
 }
 main(){
 	printf("principale\n");
+
+	afficher();
 	afficherhamza();
 	afficher();
 afficher();
 }
 	nizar();
+
 }
+
 
