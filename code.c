@@ -5,5 +5,15 @@ void aff(){
 }
 main(){
 	printf("principale\n");
+
 	aff();
+
+	afficher();
+}
+
+
+
+void afficher(){
+	printf("zakaria");
+
 }
