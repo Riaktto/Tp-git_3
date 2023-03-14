@@ -10,7 +10,6 @@ test AYMEN ELBHIHE
 test asmae bouche 
 
 test hamza
-test aymenB7I7
 test NizarOub
 
 test nizarsef
