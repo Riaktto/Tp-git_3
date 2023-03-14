@@ -11,6 +11,10 @@ main(){
 	printf("hello");
 }
 
+void aff(){
+	printf("soukaina");
+}
+
 
 
 void afficherhib(){
@@ -60,6 +64,19 @@ printf("walid");
 
 }
 
+main(){
+	printf("principale\n");
+
+	aff();
+
+	afficher();
+	afficher2();
+}
+
+
+
+
+
 
 void nizar(){
 	printf("Nizar Oubbali\n");
@@ -68,8 +85,11 @@ void nizar(){
 
 
 
+
+
 void afficher(){
 	printf("zakaria");
+
 }
 main(){
 	printf("principale\n");
