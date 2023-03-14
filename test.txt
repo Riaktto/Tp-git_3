@@ -6,9 +6,6 @@ test principale
 
 test asmae 
 
-<<<<<<< HEAD
 test hamza
-=======
 test asmae bouche 
 
->>>>>>> ba783d8c33bd0db48368580af230b83a9fc9a194
