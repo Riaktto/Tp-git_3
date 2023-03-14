@@ -8,8 +8,9 @@ printf("walid");
 
 void afficher(){
 	printf("hamza");
+}
 
-void afficher(){
+void afficher2(){
 printf("walid");
 
 }
@@ -18,6 +19,13 @@ main(){
 	afficher();
 nizar();
 }
+
+
+
+
+
+
+
 
 
 
