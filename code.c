@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 
+
 void afficherhib(){
 	printf("hiba");
 }
@@ -8,22 +9,36 @@ main(){
 	printf("principale\n");
 	afficherhiba();
 
+
+
 void afficher(){
 	printf("yassine abbes");
 }
+void afficher(){
+printf("walid");
+}
+void afficherhamza(){
+	printf("hamza");
+}
+
 void nizar(){
 	printf("nizar oub");
 }
+
 main(){
 	printf("principale\n");
 	nizar();
 
 }
 
+
+void  nizar(){
+printf("hh nizar");
+
 void afficher(){
 printf("walid");
 
-void afficher(){
+void afficherhamza(){
 	printf("hamza");
 }
 
@@ -31,23 +46,10 @@ void afficher2(){
 printf("walid");
 
 }
-main(){
-	printf("principale\n");
-	afficher();
-}
 
 
-
-
-
-
-
-
-
-
-
-
-
+void nizar(){
+	printf("Nizar Oubbali\n");
 
 
 
@@ -56,12 +58,10 @@ main(){
 void afficher(){
 	printf("zakaria");
 }
-void nizar(){
-	printf("Nizar Oubbali\n");
-}
-
 main(){
 	printf("principale\n");
+	afficherhamza();
+	afficher();
 	nizar();
 }
->>>>>>> bb623bec992a1224b21eaf43e300be4b27e70f76
+
