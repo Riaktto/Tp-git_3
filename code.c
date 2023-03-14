@@ -1,4 +1,7 @@
 #include <stdio.h>
+void afficher(){
+	printf("hello");
+}
 
 void aff(){
 	printf("soukaina");
@@ -84,8 +87,11 @@ void afficher(){
 }
 main(){
 	printf("principale\n");
+
+	afficher();
 	afficherhamza();
 	afficher();
 	nizar();
+
 }
 
