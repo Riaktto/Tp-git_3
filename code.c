@@ -3,8 +3,9 @@
 
 void afficher(){
 	printf("hamza");
+}
 
-void afficher(){
+void afficher2(){
 printf("walid");
 
 }
@@ -32,6 +33,6 @@ main(){
 
 
 
-void afficher(){
+void afficher4(){
 	printf("zakaria");
 }
