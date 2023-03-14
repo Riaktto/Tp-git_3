@@ -17,6 +17,7 @@ void nizar(){
 
 void  nizar(){
 printf("hh nizar");
+}
 
 void afficher(){
 printf("walid");
